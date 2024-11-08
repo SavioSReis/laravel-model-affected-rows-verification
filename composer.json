@@ -1,5 +1,5 @@
 {
-  "name": "mobilestock/laravel-model-affected-rows-verification",
+  "name": "savioamin/laravel-model-affected-rows-verification",
   "description": "laravel-model-affected-rows-verification is a library that extends the default Laravel model to include implicit row count verification for update and delete operations. This ensures that these operations are conducted safely, providing an extra layer of validation to prevent unintended data modifications and enhance the stability of your Laravel applications.",
   "type": "library",
   "authors": [
