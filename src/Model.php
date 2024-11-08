@@ -4,7 +4,6 @@ namespace MobileStock\Laravel\Model\AffectedRowsVerification;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model as EloquentModel;
-use MobileStock\Laravel\Model\AffectedRowsVerification\Exception\RowCountFailVerificationException;
 
 /**
  * @method static static create(array $attributes = [])
